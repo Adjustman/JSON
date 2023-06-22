@@ -4,6 +4,8 @@
     "Steps to reproduce": "1-2-3-4",
     "Actual result": "The words on the page are not translated",
     "Expected Result": "The words on the page are translated",
+    "Severity": "Minor",
+    "Priority": "low",
     "Attachments": "URL to attachments",
     "Additional Information": "Comment"
 } 
