@@ -1,0 +1,17 @@
+{
+    "base theory":  [
+        "SDLC",
+        "STLC"      ],
+    "sniffing":     [
+        "Charles",
+        "Fiddler"   ],
+    "Linux": "terminal",
+    "SQL Basics": [
+        "Create",
+        "Delete"  
+        "Drop"
+        "Insert Into"
+        "Select" ],
+    "Stress Testing": "Jmeter"
+    
+  }
